@@ -1,0 +1,69 @@
+ Question: 1
+Question: ____ lives in a pineapple under the sea? 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+
+Question: 2
+Question: ____ lives in a pineapple under the sea? 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+
+Question: 3
+Question: ____ lives in a pineapple under the sea? 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+
+Question: 4
+Question: What is Gengars primary type 
+Points: 1.0 
+Difficulty: 1 
+Answer Space: 1 
+1. Dark 
+2. ghost 
+3. ice 
+4. Ghost 
+5. none 
+
+Question: 5
+Question: What is Gengars primary type 
+Points: 1.0 
+Difficulty: 1 
+Answer Space: 1 
+1. Dark 
+2. ghost 
+3. ice 
+4. Ghost 
+5. none 
+
+Question: 6
+Question: ___ is considered the 'King of Rock' 
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+
+Question: 7
+Question: What is Gengars primary type 
+Points: 1.0 
+Difficulty: 1 
+Answer Space: 1 
+1. Dark 
+2. ghost 
+3. ice 
+4. Ghost 
+5. none 
+
+Question: 8
+Question: ___ is considered the 'King of Rock' 
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+
+Question: 9
+Question: ___ is the newest pokemon game 
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+

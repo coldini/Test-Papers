@@ -1,0 +1,78 @@
+ Question: 1
+Question: ____ lives in a pineapple under the sea?
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Spongebob Squarepants  lives in a pineapple under the sea? 
+
+Question: 2
+Question: ____ lives in a pineapple under the sea?
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Spongebob Squarepants  lives in a pineapple under the sea? 
+
+Question: 3
+Question: ____ lives in a pineapple under the sea?
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Spongebob Squarepants  lives in a pineapple under the sea? 
+
+Question: 4
+Question: What is Gengars primary type 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Ghost 
+1. Dark 
+2. ghost 
+3. ice 
+4. ***Ghost*** 
+5. none 
+
+Question: 5
+Question: What is Gengars primary type 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Ghost 
+1. Dark 
+2. ghost 
+3. ice 
+4. ***Ghost*** 
+5. none 
+
+Question: 6
+Question: ___ is considered the 'King of Rock'
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Elvis Presley  is considered the 'King of Rock' 
+
+Question: 7
+Question: What is Gengars primary type 
+Amount of Points: 1.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Ghost 
+1. Dark 
+2. ghost 
+3. ice 
+4. ***Ghost*** 
+5. none 
+
+Question: 8
+Question: ___ is considered the 'King of Rock'
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Elvis Presley  is considered the 'King of Rock' 
+
+Question: 9
+Question: ___ is the newest pokemon game
+Amount of Points: 5.0 
+Difficulty of question: 1 
+Answer space: 1 
+CORRECT ANSWER: Pokemon Scarlet/Violet  is the newest pokemon game 
+
